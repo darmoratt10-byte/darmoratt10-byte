@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**darmoratt10-byte/darmoratt10-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Data Analyst passionate about turning data into meaningful insights.
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎯 Currently building my skills in Data Analytics
+- 📊 Skilled in Microsoft Excel
+- 🗄️ Learning and practicing SQL
+- 📈 Learning Power BI
+- 🐍 Familiar with basic Python
+- 💼 Open to entry-level Data Analyst opportunities
+
+## 🛠️ Skills
+
+- Microsoft Excel
+- SQL
+- Power BI
+- Data Cleaning
+- Data Analysis
+- Pivot Tables & Pivot Charts
+- Excel Dashboards
+
+## 📂 Projects
+
+### E-commerce Sales & Profit Analysis — Excel
+Analyzed an e-commerce dataset using Excel, Pivot Tables, Pivot Charts and an interactive dashboard to identify sales, profit and business trends.
+
+## 📫 Connect With Me
+
+I'm open to learning opportunities and entry-level Data Analyst roles.
